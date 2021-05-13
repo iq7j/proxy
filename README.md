@@ -2,7 +2,7 @@
 This a python script 
 That gives you random updates proxies.
 
-[![Build](https://img.shields.io/badge/Supported_OS-Linux,termux-orange.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Linux,termux-blue.svg)]()
 
 [![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg?maxAge=259200)]()
 
@@ -24,3 +24,7 @@ python proxy.py
 
 ![images (2)](https://user-images.githubusercontent.com/79198231/118124142-d7969580-b3fd-11eb-984c-1f17a4c5fb93.png)
 
+# credits
+
+[![creator](https://img.shields.io/badge/creator-yahya-red.svg)]()
+[![team](https://img.shields.io/badge/team-t10s-black.svg)]()
