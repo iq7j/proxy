@@ -4,7 +4,7 @@ That gives you random updates proxies.
 
 [![Build](https://img.shields.io/badge/Supported_OS-Linux,termux-blue.svg)]()
 
-[![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/version-1.1-brightgreen.svg?maxAge=259200)]()
 
 
 # proxy list update date
