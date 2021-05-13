@@ -1,6 +1,6 @@
 # proxy
 This a python script 
-That gives you random updates proxies.
+That gives you random updated proxies.
 
 [![Build](https://img.shields.io/badge/Supported_OS-Linux,termux-blue.svg)]()
 
